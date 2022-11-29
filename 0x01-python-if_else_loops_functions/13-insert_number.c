@@ -1,8 +1,3 @@
-*
- * File: 13-insert_number.c
- * Auth: Carrol
- */
-
 #include "lists.h"
 
 /**
